@@ -1,0 +1,159 @@
+.png1{
+	position: absolute;
+	width: 78px;
+height: 35px;
+left: 48px;
+top: 33px;
+}
+.title{
+	position: absolute;
+width: 340px;
+height: 48px;
+left: 152px;
+top: 102px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 48px;
+}
+.title_1{
+	position: absolute;
+width: 454px;
+height: 49px;
+left: 152px;
+top: 213px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #b9b8b8;	
+}
+.User{
+position: absolute;
+width: 153px;
+height: 31px;
+left: 152px;
+top: 259px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 156.5%;
+
+color: #263A43;
+}
+.container{
+position: absolute;
+width: 399px;
+height: 70px;
+left: 152px;
+top: 335px;
+
+background: #FFFFFF;
+border: 0.6px solid #B1B1B1;
+box-sizing: border-box;
+}
+.User1{
+position: absolute;
+width: 108px;
+height: 31px;
+left: 152px;
+top: 398px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 156.5%;
+
+color: #263A43;
+}
+
+.container1{
+position: absolute;
+width: 399px;
+height: 70px;
+left: 152px;
+top: 470px;
+}
+.User2{
+position: absolute;
+width: 197px;
+height: 31px;
+left: 152px;
+top: 540px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 156.5%;
+
+color: #263A43;
+}
+.container2{
+position: absolute;
+width: 399px;
+height: 70px;
+left: 152px;
+top: 587px;
+
+background: #FFFFFF;
+border: 0.6px solid #B1B1B1;
+box-sizing: border-box;
+border-radius: 6px;
+}
+.Forgot{
+position: absolute;
+width: 143px;
+height: 25px;
+left: 418px;
+top: 678px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 156.5%;
+
+
+color: #8E8E8E;
+}
+.Remember{
+position: absolute;
+width: 101px;
+height: 22px;
+left: 110px;
+top: 679px;
+}
+.Login{
+position: absolute;
+width: 400px;
+height: 50px;
+top: 750px;
+left: 150px;
+}
+.png2{
+	position: absolute;
+width: 653px;
+height: 739px;
+left: 714px;
+top: 80px;
+z-index: 2;
+
+background: url(.jpg), #C4C4C4;
+border-radius: 20px;
+}
+.png3{
+	position: absolute;
+	right: 100px;
+	z-index: 1;
+}
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
+ @media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
+ @media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
